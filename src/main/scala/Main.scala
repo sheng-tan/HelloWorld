@@ -1,4 +1,4 @@
-import scala.io.Std._
+import scala.io.StdIn._
 
 object Main extends App {
   println("Hello, CS1320!")
