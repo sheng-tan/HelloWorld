@@ -1,5 +1,7 @@
-import scala.io.StdIn._
+import scala.io.Std._
 
 object Main extends App {
-  println("Hello, World!")
+  println("Hello, CS1320!")
+  val name = readLine()
+  println("Hello " + name)
 }
